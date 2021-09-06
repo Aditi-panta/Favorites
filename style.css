@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding-top: 800px;
+    text-align:center;
 }
 .profile{
     width: 175px;
@@ -83,4 +84,18 @@ p{
 }
 .link:hover{
     background-color: darkblue;
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: blueviolet;
+}
+#inspiration img{
+    width:400px;
+    height:400px;
 }
